@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">应用分类</string>
+    <string name="app_title">应用分类</string>
+    
+    <string name="add_category">添加分类</string>
+    <string name="add_application">添加应用</string>
+    <string name="add_bookmark">添加书签</string>
+    <string name="add_shortcut">添加快捷方式</string>
+    
+    <string name="add_item">添加</string>
+    <string name="item_application">应用程序</string>
+    <string name="item_bookmark">网址书签</string>
+    <string name="item_shortcut">快捷方式</string>
+    
+    <string name="new_folder">新建文件夹</string>
+    <string name="rename_folder">重命名文件夹</string>
+    <string name="folder_name">输入名称</string>
+    
+    <string name="menu_delete">删除</string>
+    <string name="menu_rename">重命名</string>
+    <string name="menu_to_home">添加到桌面</string>
+    
+    <string name="menu_setting">设置</string>
+    <string name="menu_about">关于软件</string>
+    
+    <string name="toast_title_null">名称不能为空</string>
+    <string name="toast_permission_deny">没有权限执行</string>
+    <string name="toast_intent_not_found">相关应用不存在</string>
+    
+    <string name="prompt_del">确定要删除此文件夹及其所包含的内容吗？</string>
+    <string name="prompt_install">尚未安装，立即下载安装？</string>
+    
+    <string name="about_title" formatted="false">%s v%s</string>
+    <string name="about_text">Android平台适用\n\n©沃林克软件工作室\n版权所有\n\n官网：<a href="http://sw.wolink.org/">http://sw.wolink.org</a>\n</string>
+    <string name="about_note">* 本软件使用完全免费，使用过程中产生的网络流量费用由网络运营商收取。</string>
+    <string name="about">关于软件</string>
+    
+    <string name="feedback">意见和建议</string>
+    
+    <string name="app_voicecalc">语音计算器</string>
+    
+    <string name="category_tools">工具</string>
+</resources>
